@@ -7,7 +7,7 @@ This is a Python remake of Hangman.
 **Hangman.py**
 
 * Allows user to choose a difficulty
-* Runs gameplay
+* Runs game
 * Displays rules
 * Prompts player to replay the game
 
