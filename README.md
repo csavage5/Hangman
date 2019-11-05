@@ -13,7 +13,7 @@ This is a Python remake of Hangman.
 
 **dictionary-large.txt**
 
-* Dictionary large contains a list of words ordered alphabetically.
+* Contains a list of words ordered alphabetically
 
 **HMGraphics.py**
 
